@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_D6kXYFxYEeyw_pG8MBi7Zg" label="testprojct" description="NA" language="java" technicalLabel="TESTPROJCT" author="_D6kXYVxYEeyw_pG8MBi7Zg" productVersion="Talend Data Fabric-7.3.1.20210422_0824-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/sivachatme/sivachatme.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_D6oBwFxYEeyw_pG8MBi7Zg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_D6kXYVxYEeyw_pG8MBi7Zg" login="ssivagurunat@bathand_body_works" firstName="siva sakthivel" lastName="sivagurunathan" type="DQ"/>
+</xmi:XMI>
